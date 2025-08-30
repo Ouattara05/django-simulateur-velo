@@ -16,7 +16,8 @@ __pycache__/
 db.sqlite3
 
 # Fichiers générés par la simulation (TRÈS IMPORTANT !)
-output_data_v2/
+output_data_v3/
+output_data_v3/*
 
 # Fichiers de secrets (bonne pratique)
 .env
